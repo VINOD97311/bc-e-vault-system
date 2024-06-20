@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "ipfs": "^0.66.1",
+    "ipfs-http-client": "^60.0.1",
+    "truffle-hdwallet-provider": "^1.0.6"
+  }
+}
